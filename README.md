@@ -1,3 +1,3 @@
 # Python lesson
-Author: Kerstin Wedlich-Zachodin
+Author: Kerstin V. Wedlich-Zachodin, Vladimir Zachodin
 
